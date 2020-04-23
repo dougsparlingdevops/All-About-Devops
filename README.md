@@ -14,9 +14,11 @@
 
 ### DevOps
 
+- [100 Best Devops Books of All Time](https://bookauthority.org/books/best-devops-books)
 - [12 Best New Devops Books To Read In 2020](https://bookauthority.org/books/new-devops-books)
 
 ### Docker
 
+- [100 Best Docker Books of All Time](https://bookauthority.org/books/best-docker-books)
 - [50 Best New Docker Books To Read In 2020](https://bookauthority.org/books/new-docker-books)
 
